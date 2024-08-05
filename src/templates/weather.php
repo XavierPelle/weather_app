@@ -11,7 +11,6 @@
         <?php if (isset($tutorial) && $tutorial): ?>
             <div class="bg-yellow-100 text-yellow-700 p-6" role="alert">
                 <strong class="font-bold">Information :</strong>
-                <span class="block sm:inline"><?php echo htmlspecialchars($error); ?></span>
                 <p class="mt-2 text-gray-700">Pour obtenir les informations météorologiques, veuillez utiliser l'un des paramètres suivants dans l'URL :</p>
                 <ul class="list-disc list-inside text-gray-700">
                     <li><strong>city</strong> : nom de la ville (ex. ?city=Paris)</li>
