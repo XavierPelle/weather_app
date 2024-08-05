@@ -45,17 +45,17 @@ Pour obtenir les informations météorologiques, vous pouvez utiliser l'un des p
 
 - Par nom de ville :
     ```
-    http://localhost:8000?city=Paris
+    http://localhost:8123?city=Paris
     ```
 
 - Par ID de ville :
     ```
-    http://localhost:8000?city_id=2988507
+    http://localhost:8123?city_id=2988507
     ```
 
 - Par coordonnées géographiques :
     ```
-    http://localhost:8000?lat=48.8566&lon=2.3522
+    http://localhost:8123?lat=48.8566&lon=2.3522
     ```
 
 ### Tutoriel
