@@ -14,7 +14,7 @@ Ce projet est une application web simple qui permet d'obtenir des informations m
 1. Clonez ce dépôt sur votre machine locale :
     ```sh
     git clone https://github.com/XavierPelle/weather_app.git
-    cd weather-app
+    cd weather_app
     ```
 
 2. Placez-vous dans le dossier `docker` :
