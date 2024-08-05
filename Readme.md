@@ -7,7 +7,6 @@ Ce projet est une application web simple qui permet d'obtenir des informations m
 ## Prérequis
 
 - Docker
-- Docker Compose
 
 ## Installation
 
